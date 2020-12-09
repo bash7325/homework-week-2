@@ -1,4 +1,8 @@
-
+body {
+    background-image: url(https://image.freepik.com/free-photo/gray-wall-textures-background_74190-4389.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .img-thumbnail {
     float: left;
     margin: 10px;
