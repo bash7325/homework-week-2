@@ -1,22 +1,23 @@
+/*Background image*/
 body {
-    background-image: url(./Assets/Images/background.jpg);
-    background-repeat: repeat;
-    background-size: cover;
+  background-image: url(./Assets/Images/background.jpg);
+  background-repeat: repeat;
+  background-size: cover;
 }
+/*About image*/
 .img-thumbnail {
-    float: left;
-    margin: 20px;
-    
+  float: left;
+  margin: 20px;
 }
-
+/*Page styling and margin*/
 h1 {
-    margin: 10px 20px;
+  margin: 10px 20px;
 }
 
 p {
-    margin: 30px;
-}   
+  margin: 30px;
+}
 
 #footer-nav {
-    font-size: 16px;
+  font-size: 16px;
 }
