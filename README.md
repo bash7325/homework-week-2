@@ -11,7 +11,7 @@ Responsive design utilizing Bootstrap CSS Framework.
 - Utilization of Bootstrap components and grid system
 - *Bonus sticky footer added
 # Frameworks Used
--Bootstrap v5.0.0-beta1 
+- Bootstrap v5.0.0-beta1 
 
 # Resources Used
 - [Bootstrap](https://getbootstrap.com/)
