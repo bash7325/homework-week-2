@@ -23,5 +23,5 @@ Responsive design utilizing Bootstrap CSS Framework.
 - [Brandon Ashby Github](https://github.com/bash7325)
 
 # Screenshots
-- [Large display](https://i.imgur.com/PFXo26y.png)
-- [Small display](https://i.imgur.com/r2nxvTP.png)
+- ![Large display](https://i.imgur.com/PFXo26y.png)
+- ![Small display](https://i.imgur.com/r2nxvTP.png)
